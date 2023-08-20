@@ -1,75 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CV - AASHISH ANAND</title>
-  <style>
-    /* Add your styles here */
-    /* You can style headings, fonts, colors, alignments, etc. */
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Hi 👋! My name is AASHISH ANAND</h1>
-    <p>I'm a Bachelor of Technology (Electronics & Communication Engineering) student from BVDU College of Engineering, Pune, India.</p>
-  </header>
 
-  <section id="github-stats">
-    <!-- Your GitHub stats and language graph here -->
-    <!-- You can replace the placeholder images and adjust alignments as needed -->
-  </section>
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/anandaashish74711) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashishanand379) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aashish-anand7411/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aashish30865959) 
 
-  <section id="skills">
-    <h2>Skills</h2>
-    <ul>
-      <li>Languages: C++, C, Problem Solving, Data Structure, algorithm</li>
-      <li>FRONTEND: HTML, CSS, JavaScript, Tailwind, Nextjs</li>
-      <li>Backend: Nodejs, Expressjs, Socket.io</li>
-      <li>Database: MYSQL, MongoDB, Firebase</li>
-      <li>Version Control: Git, Github</li>
-      <li>CORE CONCEPTS: OS, DBMS, OOPS, Computer Network</li>
-    </ul>
-  </section>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anandaashish74711&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anandaashish74711&theme=synthwave&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anandaashish74711&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-  <section id="work-experience">
-    <h2>Work Experience</h2>
-    <p>GALAXY TECHNOVATION LLP</p>
-    <ul>
-      <li>Engineered a comprehensive and visually captivating dashboard showcasing employee data, customer insights, sales trends, earnings, and more using cutting-edge technologies including React, React Context API, Syncfusion, and Material UI.</li>
-      <li>Incorporated diverse components such as dynamic bar charts and insightful graphs to adeptly illustrate and elucidate complex data sets on the dashboard.</li>
-      <li>Streamlined company operations by establishing a centralized hub for swift access and astute analysis of critical data, consequently enhancing workflow efficiency and informed decision-making.</li>
-    </ul>
-  </section>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anandaashish74711&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-  <section id="projects">
-    <h2>Projects</h2>
-    <h3>Chat App</h3>
-    <ul>
-      <li>Developed a feature-rich communication application using React 18, MUI CSS, Redux, NodeJs, ExpressJS, MongoDB, Socket.io, and ZEGOCLOUD WebRTC API.</li>
-      <li>Implemented a centralized state management system using React context API, optimizing state updates and handling complex state changes.</li>
-      <!-- Add more project details here -->
-    </ul>
-    <!-- Add more project sections as needed -->
-  </section>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-  <section id="contact">
-    <h2>Contact Information</h2>
-    <p>Email: anandaashish512@gmail.com</p>
-    <p>Phone: 91-9525880998</p>
-    <!-- Add links to social media profiles here -->
-  </section>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anandaashish74711&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  <section id="education">
-    <h2>Education</h2>
-    <p>BVDU College of Engineering, Pune, India</p>
-    <p>Bachelor of Technology (Electronics & Communication Engineering) | CGPA: 8.69 | June 2020 – June 2024</p>
-    <p>JAWAHAR NAVODAYA VIDALAYA, Nalanda</p>
-    <p>Class: XII (81.2%) | 2017-2019</p>
-  </section>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-  <section id="snake-animation">
-    <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-  </section>
-</body>
-</html>
+---
+[![](https://visitcount.itsvg.in/api?id=anandaashish74711&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
