@@ -1,49 +1,75 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV - AASHISH ANAND</title>
+  <style>
+    /* Add your styles here */
+    /* You can style headings, fonts, colors, alignments, etc. */
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Hi 👋! My name is AASHISH ANAND</h1>
+    <p>I'm a Bachelor of Technology (Electronics & Communication Engineering) student from BVDU College of Engineering, Pune, India.</p>
+  </header>
 
-###
+  <section id="github-stats">
+    <!-- Your GitHub stats and language graph here -->
+    <!-- You can replace the placeholder images and adjust alignments as needed -->
+  </section>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Languages: C++, C, Problem Solving, Data Structure, algorithm</li>
+      <li>FRONTEND: HTML, CSS, JavaScript, Tailwind, Nextjs</li>
+      <li>Backend: Nodejs, Expressjs, Socket.io</li>
+      <li>Database: MYSQL, MongoDB, Firebase</li>
+      <li>Version Control: Git, Github</li>
+      <li>CORE CONCEPTS: OS, DBMS, OOPS, Computer Network</li>
+    </ul>
+  </section>
 
-###
+  <section id="work-experience">
+    <h2>Work Experience</h2>
+    <p>GALAXY TECHNOVATION LLP</p>
+    <ul>
+      <li>Engineered a comprehensive and visually captivating dashboard showcasing employee data, customer insights, sales trends, earnings, and more using cutting-edge technologies including React, React Context API, Syncfusion, and Material UI.</li>
+      <li>Incorporated diverse components such as dynamic bar charts and insightful graphs to adeptly illustrate and elucidate complex data sets on the dashboard.</li>
+      <li>Streamlined company operations by establishing a centralized hub for swift access and astute analysis of critical data, consequently enhancing workflow efficiency and informed decision-making.</li>
+    </ul>
+  </section>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <section id="projects">
+    <h2>Projects</h2>
+    <h3>Chat App</h3>
+    <ul>
+      <li>Developed a feature-rich communication application using React 18, MUI CSS, Redux, NodeJs, ExpressJS, MongoDB, Socket.io, and ZEGOCLOUD WebRTC API.</li>
+      <li>Implemented a centralized state management system using React context API, optimizing state updates and handling complex state changes.</li>
+      <!-- Add more project details here -->
+    </ul>
+    <!-- Add more project sections as needed -->
+  </section>
 
-###
+  <section id="contact">
+    <h2>Contact Information</h2>
+    <p>Email: anandaashish512@gmail.com</p>
+    <p>Phone: 91-9525880998</p>
+    <!-- Add links to social media profiles here -->
+  </section>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+  <section id="education">
+    <h2>Education</h2>
+    <p>BVDU College of Engineering, Pune, India</p>
+    <p>Bachelor of Technology (Electronics & Communication Engineering) | CGPA: 8.69 | June 2020 – June 2024</p>
+    <p>JAWAHAR NAVODAYA VIDALAYA, Nalanda</p>
+    <p>Class: XII (81.2%) | 2017-2019</p>
+  </section>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+  <section id="snake-animation">
+    <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  </section>
+</body>
+</html>
